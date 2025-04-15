@@ -1,4 +1,4 @@
-# 🧤 Aero Glider
+# 🧤 Aero Glider (2022)
 
 **Version 0.10** — Now with **word selection support!**
 
