@@ -4,6 +4,8 @@
 
 A hand-gesture based virtual keyboard and English word prediction system using Mediapipe + NLTK + OpenCV. Designed for gesture typing in mid-air without physical hardware.
 
+![Main Interface](https://firebasestorage.googleapis.com/v0/b/kame-tech-lab.appspot.com/o/projects%2Faero-glider%2Fmain_image?alt=media&token=1a618011-a137-4686-a8b1-339459e7b1b7)
+
 ---
 
 ## 🎯 Overview
