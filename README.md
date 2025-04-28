@@ -1,4 +1,4 @@
-# 🧤 Aero Glider (2022)
+# Aero Glider (2022)
 
 **Version 0.10** — Now with **word selection support!**
 
@@ -8,13 +8,13 @@ A hand-gesture based virtual keyboard and English word prediction system using M
 
 ---
 
-## 🎯 Overview
+## Overview
 
 Aero Glider allows users to type English words using fingertip trajectories detected in real-time via webcam. It recognizes character zones mapped on a virtual keyboard and predicts possible words based on fuzzy string matching and density of key presses.
 
 ---
 
-## ✨ Features
+## Features
 
 - 📷 **Hand Tracking with Mediapipe**
 - 🎹 **Virtual keyboard overlay** using OpenCV
@@ -27,7 +27,7 @@ Aero Glider allows users to type English words using fingertip trajectories dete
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Python 3.x
 - OpenCV (cv2)
@@ -38,7 +38,7 @@ Aero Glider allows users to type English words using fingertip trajectories dete
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. **Hand detection**: Tracks index fingertip (ID 8) when above knuckle (ID 5)
 2. **Trajectory recording**: Accumulates positions & overlays path
@@ -51,7 +51,7 @@ Aero Glider allows users to type English words using fingertip trajectories dete
 
 ---
 
-## 📦 Keyboard Mapping
+## Keyboard Mapping
 
 A QWERTY keyboard is mapped to a 10×3 grid. Example:
 
@@ -63,7 +63,7 @@ Z X C V B N M , . /
 
 ---
 
-## 🎮 Controls
+## Controls
 
 - `1`, `2`, `3` → Select one of the 3 predicted words
 - `Enter` → Confirm & append selected word to sentence
@@ -71,7 +71,7 @@ Z X C V B N M , . /
 
 ---
 
-## 📝 Notes
+## Notes
 
 - Works best with good lighting & single hand input
 - Virtual keyboard resizes to 800×600 window
@@ -79,7 +79,7 @@ Z X C V B N M , . /
 
 ---
 
-## 📄 License
+## License
 
 MIT License
 
